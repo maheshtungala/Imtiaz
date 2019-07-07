@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="imtiaz">
+<test name="imtiaztest">
+
+<classes>
+
+ <class name="myPack.Imtiaz"/>
+
+</classes>
+</test>
+</suite>
